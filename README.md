@@ -4,7 +4,7 @@ Tools more used for me
 ## General Knowledge
 - [Interfaces](http://php.net/manual/en/language.oop5.interfaces.php)
 - [Traits](http://php.net/manual/pt_BR/language.oop5.traits.php)
-- [Theory uuid](https://en.wikipedia.org/wiki/Universally_unique_identifier)
+- [Uuid](https://en.wikipedia.org/wiki/Universally_unique_identifier)
 
 ## Knowledge in Laravel
 - [Laravel Events](https://laravel.com/docs/events)
@@ -54,11 +54,9 @@ Tools more used for me
 ## Others Libraries
 - [Push Notification](https://github.com/Ph3nol/NotificationPusher)
 - [Hashids](https://github.com/Torann/laravel-hashids)
-- [Database Abstraction Layer](https://packagist.org/packages/doctrine/dbal)
 
 ## Front-end Common Libraries more used
 - [Table Link](https://github.com/brunoti/table-link)
-- [in_array](https://github.com/brunoti/in_array)
 - [Selectize](http://selectize.github.io/selectize.js)
 - [DataTables](https://github.com/DataTables/DataTables)
 
