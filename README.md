@@ -1,5 +1,5 @@
 # my-web-resources
-Tools more used for me
+Tools more used by me
 
 ## General Knowledge
 - [Interfaces](http://php.net/manual/en/language.oop5.interfaces.php)
