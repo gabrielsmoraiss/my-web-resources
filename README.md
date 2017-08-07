@@ -69,4 +69,5 @@ Tools more used for me
 - [Mano Bruno](https://github.com/brunoti)
 
 ## Articles/Tutorials
+- [Apis](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
 - [Code Casts](https://codecasts.com.br)
