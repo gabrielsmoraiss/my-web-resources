@@ -15,6 +15,9 @@ Tools more used for me
 - [Linux](https://www.ubuntu.com)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+## Git
+- [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Code Editor
 - [Best Code Editor](https://www.sublimetext.com/)
 - [Matherial Theme for Sublime](https://github.com/equinusocio/material-theme)
@@ -26,17 +29,22 @@ Tools more used for me
 - [PSR-1](http://www.php-fig.org/psr/psr-1/)
 - [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
-## Javascript
+## Front-end
+
+#### Javascript
 - [Airbnb ES6](https://github.com/airbnb/javascript)
 - [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
+- [Functional library for JavaScript](https://github.com/ramda/ramda)
 
-## CSS
+Common Libraries
+- [Selectize](http://selectize.github.io/selectize.js)
+- [DataTables](https://github.com/DataTables/DataTables)
+- [Table Link](https://github.com/brunoti/table-link)
+
+#### CSS
 - [LESS](http://lesscss.org/)
 
-## Git
-- [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
-
-## Gulp
+#### Gulp
 - [Gulp for Beginners - CSS-Tricks](https://css-tricks.com/gulp-for-beginners/)
 
 ## PHP Common Libraries more used
@@ -55,19 +63,14 @@ Tools more used for me
 - [Push Notification](https://github.com/Ph3nol/NotificationPusher)
 - [Hashids](https://github.com/Torann/laravel-hashids)
 
-## Front-end Common Libraries more used
-- [Table Link](https://github.com/brunoti/table-link)
-- [Selectize](http://selectize.github.io/selectize.js)
-- [DataTables](https://github.com/DataTables/DataTables)
-
 ## Other Resources
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
 - [Barry](https://github.com/barryvdh)
-- [Mano Bruno](https://github.com/brunoti)
+- [Brunoti](https://github.com/brunoti)
 
 ## Articles/Tutorials
-- [Apis](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
+- [Restful API](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
 - [Code Casts](https://codecasts.com.br)
