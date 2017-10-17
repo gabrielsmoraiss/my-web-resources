@@ -62,6 +62,7 @@ Common Libraries
 ## Others Libraries
 - [Push Notification](https://github.com/Ph3nol/NotificationPusher)
 - [Hashids](https://github.com/Torann/laravel-hashids)
+- [Laravel Datatables](https://github.com/yajra/laravel-datatables)
 
 ## Other Resources
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
