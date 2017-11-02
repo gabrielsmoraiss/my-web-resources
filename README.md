@@ -75,3 +75,4 @@ Common Libraries
 ## Articles/Tutorials
 - [Restful API](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
 - [Code Casts](https://codecasts.com.br)
+- [Usando bem o console do navegador/JS](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
