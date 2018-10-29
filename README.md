@@ -71,6 +71,7 @@ Common Libraries
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
 - [Barry](https://github.com/barryvdh)
 - [Brunoti](https://github.com/brunoti)
+- [Artesãos](https://github.com/artesaos)
 
 ## Articles/Tutorials
 - [Restful API](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
