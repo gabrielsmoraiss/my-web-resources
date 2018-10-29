@@ -73,7 +73,7 @@ Common Libraries
 - [Brunoti](https://github.com/brunoti)
 - [Artesãos](https://github.com/artesaos)
 
-## Articles/Tutorials
+## Articles/Tutorials/Links
 - [Restful API](https://www.linkedin.com/pulse/restful-api-melhores-pr%C3%A1ticas-compila%C3%A7%C3%A3o-renato-marinho)
-- [Code Casts](https://codecasts.com.br)
+- [Rocketseat](https://rocketseat.com.br)
 - [Usando bem o console do navegador/JS](https://medium.com/code-prestige/console-navegador-3f2434124eaf)
